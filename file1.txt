@@ -1,2 +1,2 @@
 i
-'hello this is git first project and commit."
+'hello this is git first modifidy project and commit."
